@@ -11,6 +11,8 @@ import static com.pedropathing.ivy.Scheduler.schedule;
 import static com.pedropathing.ivy.groups.Groups.sequential;
 import static com.pedropathing.ivy.pedro.PedroCommands.follow;
 
+
+// NEEDS PEDRO3 AND IVY
 @Autonomous
 public class AutoforPedro3 extends OpMode {
     private Follower follower;
